@@ -1,0 +1,18 @@
+body {
+  padding: 70px;
+  background: #ff4444
+}
+nav {
+  text-align: center;
+  margin: 50px;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
+.businesses * {
+  display: inline
+}
+.businesses button {
+  width: 100px;
+}
